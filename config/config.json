@@ -1,0 +1,6 @@
+{
+    "debug" : true,
+    "debug_console" : true,
+    "debug_data" : false,
+    "port" : 8080
+}
